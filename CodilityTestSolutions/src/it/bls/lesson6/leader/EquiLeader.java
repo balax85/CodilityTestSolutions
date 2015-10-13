@@ -1,4 +1,4 @@
-package it.bls.leader;
+package it.bls.lesson6.leader;
 
 //A non-empty zero-indexed array A consisting of N integers is given.
 //

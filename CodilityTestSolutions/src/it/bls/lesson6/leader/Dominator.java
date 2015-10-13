@@ -1,6 +1,4 @@
-package it.bls.leader;
-
-
+package it.bls.lesson6.leader;
 
 //A zero-indexed array A consisting of N integers is given. The dominator of array A is the value that occurs in more than half of the elements of A.
 //
@@ -35,7 +33,6 @@ package it.bls.leader;
 //        expected worst-case space complexity is O(1), beyond input storage (not counting the storage required for input arguments).
 //
 //Elements of input arrays can be modified.
-
 
 import java.util.ArrayList;
 
